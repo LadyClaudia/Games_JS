@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "define-property": "^2.0.2",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.1.1",
     "extend-shallow": "^3.0.2",
     "fill-range": "^4.0.0",
     "fragment-cache": "^0.2.1",
